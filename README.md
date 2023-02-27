@@ -36,7 +36,7 @@ In the sh file, I've added examples that you can change to suit your needs：
 
 ` python evaluate.py --boundary self.boundary` 
 
-self.boundary can be used to adjust the parameters of NSSC and HLF
+self.boundary can be used to adjust the parameters
 
 evaluate.py is suitable for ViTs, considering that robustly trained CNNs use TensorFlow, we have recreated eval_cnns.py for CNNs. 
 
